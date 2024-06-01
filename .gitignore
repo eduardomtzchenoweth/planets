@@ -1,2 +1,6 @@
 *.csv
 results/
+.Rproj.user
+.Rhistory
+.RData
+*.Rproj
